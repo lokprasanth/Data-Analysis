@@ -1,6 +1,4 @@
-# -----------------------
 # Telecom Churn Analysis
-# -----------------------
 
 # 1. Import Libraries
 import pandas as pd
